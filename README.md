@@ -6,6 +6,7 @@ A end-to-end analysis of ~3,000 Indian startup funding deals (2015–2020), buil
 
 ---
 ![image alt](https://github.com/kishan45yadav/Indian_startup_funding_analysis/blob/main/Screenshot%20(618).png?raw=true)
+![image alt](https://github.com/kishan45yadav/Indian_startup_funding_analysis/blob/main/Screenshot%20(619).png?raw=true)
 ## Why this dataset
 
 Most beginner portfolio projects use data that's already clean, which ends up showcasing chart-building more than problem-solving. This one wasn't like that. Fixing it required actual judgment calls — not "run a formula and move on" but "decide what 27% of unmapped industry records should mean" — and that's the part worth documenting.
